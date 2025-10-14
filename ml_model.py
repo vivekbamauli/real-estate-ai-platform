@@ -21,3 +21,4 @@ def train_model(df):
 if __name__ == "__main__":
     df = pd.read_csv("data/properties.csv")
     model = train_model(df)
+# hy my name is vivek kumar
