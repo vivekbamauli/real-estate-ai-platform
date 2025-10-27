@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from index_calculator import calculate_liveability, calculate_viability
 
-st.title("AI-Driven Real Estate Advisory Platform")
+st.title("vivek-bamauli AI-Driven Real Estate Advisory Platform")
 st.header("Evaluate Properties for Livability and Investment Viability")
 
 # Option selector
